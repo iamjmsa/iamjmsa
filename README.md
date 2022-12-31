@@ -1,5 +1,5 @@
 ### Hi, I'm Jomer San Andres 👋
-I'm **Freelance Web Developer** based in **Manila, Philippines**
+**Freelance Web Developer** based in **Manila, Philippines**
 
 I work on projects including websites, web design and web apps. I've helped small and medium-sized businesses and organizations to grow, improve their online presence, and scale their operations through software solutions.
 
