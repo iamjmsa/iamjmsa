@@ -7,4 +7,5 @@ I collaborate with my **teammates** to create our client's websites. When I'm no
 
 [Get in Touch](https://www.linkedin.com/in/iamjmsa/)
 
-![https://img.icons8.com/glyph-neue/64/null/facebook-new.png](https://www.linkedin.com/in/iamjmsa/)
+<!-- ![](https://www.linkedin.com/in/iamjmsa/) -->
+<a><img src="https://img.icons8.com/glyph-neue/64/null/facebook-new.png"></a>
